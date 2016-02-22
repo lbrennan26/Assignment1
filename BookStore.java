@@ -145,7 +145,7 @@ public class BookStore
         } while(choice != 5);
 
       }
-
+ 
        numBooks = 0;
        numBookmarks = 0;
        numPaintings = 0;
