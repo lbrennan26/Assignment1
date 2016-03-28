@@ -119,7 +119,8 @@ public class Question
       System.out.println("Question: " + question);
       System.out.println("    Times Tried: " + getNumTries());
       System.out.println("    Times Correct: " + getNumCorrect());
-      System.out.println("    Percent Correct: " + getPercent());
+      System.out.printf("    Percent Correct: %.2f",getPercent()); //rounds the percent to two decimal places the numbers start to get ugly
+      System.out.println("");
 
     }
 }
