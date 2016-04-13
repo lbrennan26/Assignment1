@@ -5,22 +5,22 @@ great
 fantastic
 I've been better
 3
-0
+1
 0
 Who is the best CS401 professor?
 2
 Laboon duh
 Anybody else
 0
-0
-0
+1
+1
 How many letters are in the word poise?
 3
 seven
 one
 five
 2
-0
+1
 0
 What is my favorite sport?
 6
@@ -31,7 +31,7 @@ tennis
 programming
 All of the above
 3
-0
+1
 0
 Which is the best Jurassic park film?
 4
@@ -40,5 +40,5 @@ Jurassic Park 2
 Jurrasic Park 3
 Jurassic World
 0
-0
+1
 0
